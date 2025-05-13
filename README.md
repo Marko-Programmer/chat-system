@@ -23,23 +23,23 @@ Built as a learning tool and technical showcase.
  
 * 🛡️ **Logging System**
   
-* Inspired by a lightweight implementation from my previous project [user-auth-system](https://github.com/Marko-Programmer/user-auth-system)
+  * Inspired by a lightweight implementation from my previous project [user-auth-system](https://github.com/Marko-Programmer/user-auth-system)
 
 * 🧾 **Database Integration**
 
   * Full CRUD operations via MySQL Connector/C++
   * `config.txt` used for flexible DB configuration
-  * 
+    
 * 🛠️ **Console Interface**
 
   * Menu-driven interaction
   * Strong input validation and error feedback
-  * 
+    
 * 🧪 **Unit Testing**
 
   * Implemented with Catch2 framework
   * Tests for core modules ensure reliable behavior
-  * 
+    
 * 🔐 **Security & Privacy**
 
   * User passwords are hashed before storage
@@ -49,7 +49,6 @@ Built as a learning tool and technical showcase.
 ### 💡 Technical Highlights
 
 * **Language**: C++17
-* 
 * **Libraries**:
 
   * Catch2 — unit testing
@@ -119,6 +118,5 @@ These are theoretical additions that could extend the system further:
 See license.txt for license details.
 
 <br><br>
-### 🧑‍💻 Author
+### 🙋‍♂️ Author
 **Marko Zenchuk**
- 
