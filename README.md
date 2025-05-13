@@ -98,7 +98,7 @@ To compile and run the tests, use the following command:
 
 ### ✅ Why This Project Stands Out
 
-* ** Secure by Design**: Passwords are hashed, and messages are encrypted before being stored in the database
+* **Secure by Design**: Passwords are hashed, and messages are encrypted before being stored in the database
 * **Full Chat Experience**: Registration, friend management, secure messaging, and full message control  
 * **Modular & Clean Code**: Well-separated logic and manageable files  
 * **Testing-Oriented**: Ready-to-run test suite ensures confidence   
